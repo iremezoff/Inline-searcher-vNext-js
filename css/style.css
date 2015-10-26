@@ -1,0 +1,23 @@
+.starter-template {
+    padding: 40px 15px;
+}
+.search {
+    cursor: text;
+}
+.btn-label {
+    margin: 2px 0.5%;
+    white-space: normal;
+    width: 100%;
+    vertical-align: top;
+    text-align: left;
+}
+.btn-selected {
+    border-color: transparent;
+}
+.btn-selected:hover {
+    border-color: #ccc;
+}
+.dropdown {
+    height: 200px;
+    overflow-y: scroll;
+}
